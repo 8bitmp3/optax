@@ -342,8 +342,7 @@ def rmsprop(
   optimiser that can be used to switch between several of these variants.
 
   References:
-    Tieleman and Hinton, 2012:
-        www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf
+    Tieleman and Hinton, 2012: www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf # pylint: disable=line-too-long
     Graves, 2013: https://arxiv.org/abs/1308.0850
 
   Args:
